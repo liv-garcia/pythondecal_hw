@@ -1,0 +1,18 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd .. takes you to the second to last directory in your path
+pwd let's you see what directory you are in 
+ls shows you what you have in the current directory that you're in
+Git Bash 
+
+2. Do you have pets? What kind?
+I have an aloe vera plant clinging to dear life.
+
+3. If you run across an error, what would your first course of action be?
+Check spelling, google it, and/or ask for help
+
+4. Funniest thing that happened to you in high school.
+N/A
+
+5. What is a python script? (Keep it simple)
+A python script is a .py file that contains code that describes how to do something 
+
