@@ -24,7 +24,7 @@ def g():
 
 variable4 = g # Data type of variable4: None
 
-variable5 = g() # Data type of variable5: Function, Boolean
+variable5 = g() # Data type of variable5: Function, Boolean 
 
 variable6 = [1,2,3] # Data type of variable6: List
 
