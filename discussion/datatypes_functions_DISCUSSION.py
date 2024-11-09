@@ -115,16 +115,16 @@ def two_of_three(a, b, c):
     >>> two_of_three(5, 5, 5)
     50
     """
-    sum_of_squares = a **2 +b **2 + c **2
-    print(sum_of_squares)
+    # sum_of_squares = a **2 +b **2 + c **2
+    # print(sum_of_squares)
 
-    minimum_number = min(a, b, c)
-    print (minimum_number)
+    # minimum_number = min(a, b, c)
+    # print (minimum_number)
 
-    minimum_squared = minimum_mumber
-    print (minimum_squared)
+    # minimum_squared = minimum_mumber
+    # print (minimum_squared)
 
-    return sum_of_squares
+    # return sum_of_squares
 
 """## Coding Hygiene
 
